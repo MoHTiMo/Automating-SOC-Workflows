@@ -5,4 +5,3 @@ This project demonstrates the integration of Wazuh as a SIEM and XDR, The Hive a
 cloud provider used in this project - Digital Ocean
 
 Mimikatz - https://github.com/gentilkiwi/mimikatz/releases/tag/2.2.0-20220919
-Automating-SOC-Workflows
