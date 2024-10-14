@@ -15,7 +15,8 @@ This project demonstrates the implementation of a Security Information and Event
 The diagram below shows the data flow across different components of the project.
 
 ![Architecture Diagram](images/architecture-diagram.png)
-![Architecture Diagram](images/Diagram2.png)
+
+![Architecture Diagram](images/Diagram-2.png)
 
 ---
 
