@@ -68,7 +68,7 @@ Similarly, **The Hive** was deployed on **Ubuntu 22.04** on the same cloud provi
 #### Hive Status in CLI:
 ![Hive Status](images/hive-status.png)
 
-*Note*: A separate file containing the detailed download instructions is provided in the repository [here](hive-install-instructions.txt).
+*Note*: A separate file containing the detailed download instructions is provided in the repository [here](TheHive-Install-Instructions).
 
 ---
 
