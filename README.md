@@ -1,4 +1,4 @@
-Welcome to the Automating-SOC-Workflows. 
+# Welcome to the Automating-SOC-Workflows. 
 
 This project demonstrates the integration of Wazuh as a SIEM and XDR, The Hive as a case management system, and Shuffle as a SOAR platform to automate detection and response workflows. The project involves setting up the necessary infrastructure, configuring security monitoring, and implementing automation for threat detection and response.
 
