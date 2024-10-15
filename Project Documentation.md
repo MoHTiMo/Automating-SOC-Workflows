@@ -1,4 +1,5 @@
-# Wazuh + SOAR Implementation
+![Architecture Diagram](images/💻_Automating_SOC_Workflows_!!!.png)
+# Automating SOC Workflows
 
 ## Project Overview
 This project demonstrates the implementation of a Security Information and Event Management (SIEM) system using **Wazuh** integrated with **The Hive** for case management and **Shuffle** for SOAR (Security Orchestration, Automation, and Response) capabilities.
